@@ -1,0 +1,7 @@
+{
+  "name": "Registro Reference Materials",
+  "description": "Un'applicazione web moderna per la gestione dell'inventario dei materiali di riferimento, con supporto offline, import/export CSV e monitoraggio delle scadenze.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
